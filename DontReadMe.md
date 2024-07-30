@@ -19,10 +19,13 @@ But, I don't want to do wet lab works, I want to sit in front of my desk and ana
 
 My second cautionary note will be to check the requirements for the specific med school programs. Some med schools have hard requirement of double major of biology and math/CS or good enough biology requirement. Do not apply to those schools if you are a CS major as they will not even review your applications as they receive thousands of applications and can only review hundreds of them to accept 10-12 student each year. It would be a waste of your money like I did. If you are really into that school, then you have no other options but to apply to their engineering school.
 
-Enough of cautions, let's discuss some school and program. I will be discussing the top ten or twenty schools from the NIH grants list but by no means I endorse this rank. So, let's start.
+Enough of cautions, let's discuss some school and program. I will be discussing the top ten or twenty schools from the NIH grants list but by no means I endorse this rank. I will also be suggesting a few faculties working with multiomics data. So, let's start.
 
 **University of California San Fransico**
 I am pretty sure, we all are familiar with UC Berkley, UCLA, UC San Diego. Where does UCSF come from? It is a very big name in the biotech industry. We do not know this name because this school is totally focused on biological science and has no engineering program. Look into their program for more details if you are interested but I did not apply here. 
 
 **Johns Hopkins University**
+They have CS/Bioinformatics program with world-class mentor's like Steven Salzberg, Ben Langmead, Jean Fan. However, their admissions are totally faculty driven and you will to approach faculty and convince them that you are right for their lab. So, best of luck!
+
+****
 
