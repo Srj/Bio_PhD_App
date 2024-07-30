@@ -2,4 +2,9 @@ Hello Everyone. I am Saifur. I have joined WashU School of Medicine for my Ph.D 
 That's why I am writing this article to share my experience as well as few suggestions. I hope it will come handy for people who wants to pursue their higher study in Computational Biology/Bioinformatics/Genetics and related field. I will writing this from a 
 CS major's perspective but I believe it would be helpful for students from any background. So, let's start.
 
-The first question any PhD applicants would ask is, WHERE SHOULD I APPLY? WHICH SCHOOLS ARE GOOD? As 
+The first question any PhD applicants would ask is, WHERE SHOULD I APPLY? WHICH SCHOOLS ARE GOOD? As people like order in everything, we grad students are no different. We seek for a ranking in the relevant field and I am no different. As a CS major, the first place
+we would go to is [CSRankings](https://csrankings.org/) or [USNews CS Rank](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings?_sort=rank-asc). CSRankings has a filter to sort schools according to Comp. Bio. & Binformatics and most people tends to fall to this trap. This is a distraous ranking for this field and let me tell you why. CSRankings ranks school based on publications that are indexed dblp. 
+
+dblp is a well renowned publications index in the field of CS but it does not contain journals like Nature, Nature Genetics, Nature Methods or any reputated Nature journals, Science, Cell and all of its journals, PNAS, Genome Research, Genome Biology, Brain and almost all of the top journals in the field of computational biology. If you visit the profile of a big faculty in this field, you will certainly find that they all publishes their work in these and many more top life science journals. CSrankings does NOT take publications in these venues into account! Ironically, with some appropriate filter, you can rank BUET among top 15 school in the world; even above MIT. So, why are you aspiring to go to MIT leaving BUET!
+
+![](CSRankings.PNG)
