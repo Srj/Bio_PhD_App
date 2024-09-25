@@ -12,6 +12,10 @@ dblp is a renowned publication index in the field of CS but it does not index jo
 Okay, now back to the main point. Where can we find a reliable list of schools that are top-notch in medical research? Remember that all ranks are flawed! Still, if you want to look for a list of schools that are good in computational biology, you can look into the following list to get an idea. Look for the School of Medicine funding as most people will be interested in that field. It denotes the total research funding allocated to that school. 
 - [Top NIH grant received Schools](https://www.forbes.com/sites/michaeltnietzel/2023/02/20/johns-hopkins-university-again-tops-list-of-leading-institutions-for-nih-funding/)
 
+  Also, you can look into the all-time  total Nobel prize-winning list in the **medicine** category to get an idea about the university's reputation in this field.  [](https://www.aronfrishberg.com/projects/university-nobel-prizes)
+
+Here is some of them.
+![](image.png)
 
 Before discussing programs into any of the school and share my experiences, I would put a cautionary note and suggestions first. Please don't apply to CS department if you are planning to come to computational biology. Look for medical schools or CS programs that have joint collaboration with medical schools. When applying you will have options to apply to Computational Biology/Bioinformatics under CS department as well as direct Comp. Bio/Bioinformatics program. I was confused to choose between them and so will be you. Most of the direct Bioinformatics programs are affiliated with Medical School while CS/Bioinformatics are affiliated with Engineering school. But why does it matter? It matters because there is a high chance that there will be no wet lab in the Engineering school and they only analyze data produced by other labs or publicly available while med schools have their own lab and can run end-to-end experiments rather than relying on data produced by others. 
 
