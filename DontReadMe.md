@@ -16,7 +16,7 @@ Okay, now back to the main point. Where can we find a reliable list of schools t
 
 Here is some of them.
 
-<img src="image.png" width="60">
+<img src="image.png" width="600">
 
 Before discussing programs into any of the school and share my experiences, I would put a cautionary note and suggestions first. Please don't apply to CS department if you are planning to come to computational biology. Look for medical schools or CS programs that have joint collaboration with medical schools. When applying you will have options to apply to Computational Biology/Bioinformatics under CS department as well as direct Comp. Bio/Bioinformatics program. I was confused to choose between them and so will be you. Most of the direct Bioinformatics programs are affiliated with Medical School while CS/Bioinformatics are affiliated with Engineering school. But why does it matter? It matters because there is a high chance that there will be no wet lab in the Engineering school and they only analyze data produced by other labs or publicly available while med schools have their own lab and can run end-to-end experiments rather than relying on data produced by others. 
 
