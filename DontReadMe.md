@@ -14,7 +14,7 @@ Okay, now back to the main point. Where can we find a reliable list of schools t
 
   Also, you can look into the all-time  total Nobel prize-winning list in the **medicine** category to get an idea about the university's reputation in this field.  [](https://www.aronfrishberg.com/projects/university-nobel-prizes)
 
-Here is some of them.
+Here are some of them.
 
 <img src="image.png" width="600">
 
